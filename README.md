@@ -1,5 +1,6 @@
-# Hola-mundo-
-Primer practica / proyecto
+# hola-mundo-
+Primer practica 
 
-Autor Gaxiola Montoya Rodrigo
+Autor Rodrigo Alejandro
+
 Fecha: 08/02/2021
